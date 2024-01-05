@@ -10,6 +10,7 @@ function myClick() {
 
 
 
+
 //*let button = dokument.getElementById("send");
 
 //buttton.addEventlistener("click", checkTest);
